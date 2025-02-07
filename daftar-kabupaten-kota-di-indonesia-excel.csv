@@ -1,0 +1,515 @@
+provinsi,kab_kota
+Aceh,1. Kabupaten Aceh Barat
+Aceh,2. Kabupaten Aceh Barat Daya
+Aceh,3. Kabupaten Aceh Besar
+Aceh,4. Kabupaten Aceh Jaya
+Aceh,5. Kabupaten Aceh Selatan
+Aceh,6. Kabupaten Aceh Singkil
+Aceh,7. Kabupaten Aceh Tamiang
+Aceh,8. Kabupaten Aceh Tengah
+Aceh,9. Kabupaten Aceh Tenggara
+Aceh,10. Kabupaten Aceh Timur
+Aceh,11. Kabupaten Aceh Utara
+Aceh,12. Kabupaten Bener Meriah
+Aceh,13. Kabupaten Bireuen
+Aceh,14. Kabupaten Gayo Lues
+Aceh,15. Kabupaten Nagan Raya
+Aceh,16. Kabupaten Pidie
+Aceh,17. Kabupaten Pidie Jaya
+Aceh,18. Kabupaten Simeulue
+Aceh,19. Kota Banda Aceh
+Aceh,20. Kota Langsa
+Aceh,21. Kota Lhokseumawe
+Aceh,22. Kota Sabang
+Aceh,23. Kota Subulussalam
+Sumatra Utara,1. Kabupaten Asahan
+Sumatra Utara,2. Kabupaten Batubara
+Sumatra Utara,3. Kabupaten Dairi
+Sumatra Utara,4. Kabupaten Deli Serdang
+Sumatra Utara,5. Kabupaten Humbang Hasundutan
+Sumatra Utara,6. Kabupaten Karo
+Sumatra Utara,7. Kabupaten Labuhanbatu
+Sumatra Utara,8. Kabupaten Labuhanbatu Selatan
+Sumatra Utara,9. Kabupaten Labuhanbatu Utara
+Sumatra Utara,10. Kabupaten Langkat
+Sumatra Utara,11. Kabupaten Mandailing Natal
+Sumatra Utara,12. Kabupaten Nias
+Sumatra Utara,13. Kabupaten Nias Barat
+Sumatra Utara,14. Kabupaten Nias Selatan
+Sumatra Utara,15. Kabupaten Nias Utara
+Sumatra Utara,16. Kabupaten Padang Lawas
+Sumatra Utara,17. Kabupaten Padang Lawas Utara
+Sumatra Utara,18. Kabupaten Pakpak Bharat
+Sumatra Utara,19. Kabupaten Samosir
+Sumatra Utara,20. Kabupaten Serdang Bedagai
+Sumatra Utara,21. Kabupaten Simalungun
+Sumatra Utara,22. Kabupaten Tapanuli Selatan
+Sumatra Utara,23. Kabupaten Tapanuli Tengah
+Sumatra Utara,24. Kabupaten Tapanuli Utara
+Sumatra Utara,25. Kabupaten Toba Samosir
+Sumatra Utara,26. Kota Binjai
+Sumatra Utara,27. Kota Gunungsitoli
+Sumatra Utara,28. Kota Medan
+Sumatra Utara,29. Kota Padangsidempuan
+Sumatra Utara,30. Kota Pematangsiantar
+Sumatra Utara,31. Kota Sibolga
+Sumatra Utara,32. Kota Tanjungbalai
+Sumatra Utara,33. Kota Tebing Tinggi
+Sumatra Barat,1. Kabupaten Agam
+Sumatra Barat,2. Kabupaten Dharmasraya
+Sumatra Barat,3. Kabupaten Kepulauan Mentawai
+Sumatra Barat,4. Kabupaten Lima Puluh Kota
+Sumatra Barat,5. Kabupaten Padang Pariaman
+Sumatra Barat,6. Kabupaten Pasaman
+Sumatra Barat,7. Kabupaten Pasaman Barat
+Sumatra Barat,8. Kabupaten Pesisir Selatan
+Sumatra Barat,9. Kabupaten Sijunjung
+Sumatra Barat,10. Kabupaten Solok
+Sumatra Barat,11. Kabupaten Solok Selatan
+Sumatra Barat,12. Kabupaten Tanah Datar
+Sumatra Barat,13. Kota Bukittinggi
+Sumatra Barat,14. Kota Padang
+Sumatra Barat,15. Kota Padangpanjang
+Sumatra Barat,16. Kota Pariaman
+Sumatra Barat,17. Kota Payakumbuh
+Sumatra Barat,18. Kota Sawahlunto
+Sumatra Barat,19. Kota Solok
+Sumatra Selatan,1. Kabupaten Banyuasin
+Sumatra Selatan,2. Kabupaten Empat Lawang
+Sumatra Selatan,3. Kabupaten Lahat
+Sumatra Selatan,4. Kabupaten Muara Enim
+Sumatra Selatan,5. Kabupaten Musi Banyuasin
+Sumatra Selatan,6. Kabupaten Musi Rawas
+Sumatra Selatan,7. Kabupaten Musi Rawas Utara
+Sumatra Selatan,8. Kabupaten Ogan Ilir
+Sumatra Selatan,9. Kabupaten Ogan Komering Ilir
+Sumatra Selatan,10. Kabupaten Ogan Komering Ulu
+Sumatra Selatan,11. Kabupaten Ogan Komering Ulu Selatan
+Sumatra Selatan,12. Kabupaten Ogan Komering Ulu Timur
+Sumatra Selatan,13. Kabupaten Penukal Abab Lematang Ilir
+Sumatra Selatan,14. Kota Lubuklinggau
+Sumatra Selatan,15. Kota Pagar Alam
+Sumatra Selatan,16. Kota Palembang
+Sumatra Selatan,17. Kota Prabumulih
+Riau,1. Kabupaten Bengkalis
+Riau,2. Kabupaten Indragiri Hilir
+Riau,3. Kabupaten Indragiri Hulu
+Riau,4. Kabupaten Kampar
+Riau,5. Kabupaten Kepulauan Meranti
+Riau,6. Kabupaten Kuantan Singingi
+Riau,7. Kabupaten Pelalawan
+Riau,8. Kabupaten Rokan Hilir
+Riau,9. Kabupaten Rokan Hulu
+Riau,10. Kabupaten Siak
+Riau,11. Kota Dumai
+Riau,12. Kota Pekanbaru
+Kepulauan Riau,1. Kabupaten Bintan
+Kepulauan Riau,2. Kabupaten Karimun
+Kepulauan Riau,3. Kabupaten Kepulauan Anambas
+Kepulauan Riau,4. Kabupaten Lingga
+Kepulauan Riau,5. Kabupaten Natuna
+Kepulauan Riau,6. Kota Batam
+Kepulauan Riau,7. Kota Tanjung Pinang
+Jambi,1. Kabupaten Batanghari
+Jambi,2. Kabupaten Bungo
+Jambi,3. Kabupaten Kerinci
+Jambi,4. Kabupaten Merangin
+Jambi,5. Kabupaten Muaro Jambi
+Jambi,6. Kabupaten Sarolangun
+Jambi,7. Kabupaten Tanjung Jabung Barat
+Jambi,8. Kabupaten Tanjung Jabung Timur
+Jambi,9. Kabupaten Tebo
+Jambi,10. Kota Jambi
+Jambi,11. Kota Sungai Penuh
+Bengkulu,1. Kabupaten Bengkulu Selatan
+Bengkulu,2. Kabupaten Bengkulu Tengah
+Bengkulu,3. Kabupaten Bengkulu Utara
+Bengkulu,4. Kabupaten Kaur
+Bengkulu,5. Kabupaten Kepahiang
+Bengkulu,6. Kabupaten Lebong
+Bengkulu,7. Kabupaten Mukomuko
+Bengkulu,8. Kabupaten Rejang Lebong
+Bengkulu,9. Kabupaten Seluma
+Bengkulu,10. Kota Bengkulu
+Bangka Belitung,1. Kabupaten Bangka
+Bangka Belitung,2. Kabupaten Bangka Barat
+Bangka Belitung,3. Kabupaten Bangka Selatan
+Bangka Belitung,4. Kabupaten Bangka Tengah
+Bangka Belitung,5. Kabupaten Belitung
+Bangka Belitung,6. Kabupaten Belitung Timur
+Bangka Belitung,7. Kota Pangkal Pinang
+Lampung,1. Kabupaten Lampung Tengah
+Lampung,2. Kabupaten Lampung Utara
+Lampung,3. Kabupaten Lampung Selatan
+Lampung,4. Kabupaten Lampung Barat
+Lampung,5. Kabupaten Lampung Timur
+Lampung,6. Kabupaten Mesuji
+Lampung,7. Kabupaten Pesawaran
+Lampung,8. Kabupaten Pesisir Barat
+Lampung,9. Kabupaten Pringsewu
+Lampung,10. Kabupaten Tulang Bawang
+Lampung,11. Kabupaten Tulang Bawang Barat
+Lampung,12. Kabupaten Tanggamus
+Lampung,13. Kabupaten Way Kanan
+Lampung,14. Kota Bandar Lampung
+Lampung,15. Kota Metro
+Banten,1. Kabupaten Lebak
+Banten,2. Kabupaten Pandeglang
+Banten,3. Kabupaten Serang
+Banten,4. Kabupaten Tangerang
+Banten,5. Kota Cilegon
+Banten,6. Kota Serang
+Banten,7. Kota Tangerang
+Banten,8. Kota Tangerang Selatan
+Jawa Barat,1. Kabupaten Bandung
+Jawa Barat,2. Kabupaten Bandung Barat
+Jawa Barat,3. Kabupaten Bekasi
+Jawa Barat,4. Kabupaten Bogor
+Jawa Barat,5. Kabupaten Ciamis
+Jawa Barat,6. Kabupaten Cianjur
+Jawa Barat,7. Kabupaten Cirebon
+Jawa Barat,8. Kabupaten Garut
+Jawa Barat,9. Kabupaten Indramayu
+Jawa Barat,10. Kabupaten Karawang
+Jawa Barat,11. Kabupaten Kuningan
+Jawa Barat,12. Kabupaten Majalengka
+Jawa Barat,13. Kabupaten Pangandaran
+Jawa Barat,14. Kabupaten Purwakarta
+Jawa Barat,15. Kabupaten Subang
+Jawa Barat,16. Kabupaten Sukabumi
+Jawa Barat,17. Kabupaten Sumedang
+Jawa Barat,18. Kabupaten Tasikmalaya
+Jawa Barat,19. Kota Bandung
+Jawa Barat,20. Kota Banjar
+Jawa Barat,21. Kota Bekasi
+Jawa Barat,22. Kota Bogor
+Jawa Barat,23. Kota Cimahi
+Jawa Barat,24. Kota Cirebon
+Jawa Barat,25. Kota Depok
+Jawa Barat,26. Kota Sukabumi
+Jawa Barat,27. Kota Tasikmalaya
+Jawa Tengah,1. Kabupaten Banjarnegara
+Jawa Tengah,2. Kabupaten Banyumas
+Jawa Tengah,3. Kabupaten Batang
+Jawa Tengah,4. Kabupaten Blora
+Jawa Tengah,5. Kabupaten Boyolali
+Jawa Tengah,6. Kabupaten Brebes
+Jawa Tengah,7. Kabupaten Cilacap
+Jawa Tengah,8. Kabupaten Demak
+Jawa Tengah,9. Kabupaten Grobogan
+Jawa Tengah,10. Kabupaten Jepara
+Jawa Tengah,11. Kabupaten Karanganyar
+Jawa Tengah,12. Kabupaten Kebumen
+Jawa Tengah,13. Kabupaten Kendal
+Jawa Tengah,14. Kabupaten Klaten
+Jawa Tengah,15. Kabupaten Kudus
+Jawa Tengah,16. Kabupaten Magelang
+Jawa Tengah,17. Kabupaten Pati
+Jawa Tengah,18. Kabupaten Pekalongan
+Jawa Tengah,19. Kabupaten Pemalang
+Jawa Tengah,20. Kabupaten Purbalingga
+Jawa Tengah,21. Kabupaten Purworejo
+Jawa Tengah,22. Kabupaten Rembang
+Jawa Tengah,23. Kabupaten Semarang
+Jawa Tengah,24. Kabupaten Sragen
+Jawa Tengah,25. Kabupaten Sukoharjo
+Jawa Tengah,26. Kabupaten Tegal
+Jawa Tengah,27. Kabupaten Temanggung
+Jawa Tengah,28. Kabupaten Wonogiri
+Jawa Tengah,29. Kabupaten Wonosobo
+Jawa Tengah,30. Kota Magelang
+Jawa Tengah,31. Kota Pekalongan
+Jawa Tengah,32. Kota Salatiga
+Jawa Tengah,33. Kota Semarang
+Jawa Tengah,34. Kota Surakarta
+Jawa Tengah,35. Kota Tegal
+Jawa Timur,1. Kabupaten Bangkalan
+Jawa Timur,2. Kabupaten Banyuwangi
+Jawa Timur,3. Kabupaten Blitar
+Jawa Timur,4. Kabupaten Bojonegoro
+Jawa Timur,5. Kabupaten Bondowoso
+Jawa Timur,6. Kabupaten Gresik
+Jawa Timur,7. Kabupaten Jember
+Jawa Timur,8. Kabupaten Jombang
+Jawa Timur,9. Kabupaten Kediri
+Jawa Timur,10. Kabupaten Lamongan
+Jawa Timur,11. Kabupaten Lumajang
+Jawa Timur,12. Kabupaten Madiun
+Jawa Timur,13. Kabupaten Magetan
+Jawa Timur,14. Kabupaten Malang
+Jawa Timur,15. Kabupaten Mojokerto
+Jawa Timur,16. Kabupaten Nganjuk
+Jawa Timur,17. Kabupaten Ngawi
+Jawa Timur,18. Kabupaten Pacitan
+Jawa Timur,19. Kabupaten Pamekasan
+Jawa Timur,20. Kabupaten Pasuruan
+Jawa Timur,21. Kabupaten Ponorogo
+Jawa Timur,22. Kabupaten Probolinggo
+Jawa Timur,23. Kabupaten Sampang
+Jawa Timur,24. Kabupaten Sidoarjo
+Jawa Timur,25. Kabupaten Situbondo
+Jawa Timur,26. Kabupaten Sumenep
+Jawa Timur,27. Kabupaten Trenggalek
+Jawa Timur,28. Kabupaten Tuban
+Jawa Timur,29. Kabupaten Tulungagung
+Jawa Timur,30. Kota Batu
+Jawa Timur,31. Kota Blitar
+Jawa Timur,32. Kota Kediri
+Jawa Timur,33. Kota Madiun
+Jawa Timur,34. Kota Malang
+Jawa Timur,35. Kota Mojokerto
+Jawa Timur,36. Kota Pasuruan
+Jawa Timur,37. Kota Probolinggo
+Jawa Timur,38. Kota Surabaya
+DKI Jakarta,1. Kota Administrasi Jakarta Barat
+DKI Jakarta,2. Kota Administrasi Jakarta Pusat
+DKI Jakarta,3. Kota Administrasi Jakarta Selatan
+DKI Jakarta,4. Kota Administrasi Jakarta Timur
+DKI Jakarta,5. Kota Administrasi Jakarta Utara
+DKI Jakarta,6. Kabupaten Administrasi Kepulauan Seribu
+DI Yogyakarta,1. Kabupaten Bantul
+DI Yogyakarta,2. Kabupaten Gunungkidul
+DI Yogyakarta,3. Kabupaten Kulon Progo
+DI Yogyakarta,4. Kabupaten Sleman
+DI Yogyakarta,5. Kota Yogyakarta
+Bali,1. Kabupaten Badung
+Bali,2. Kabupaten Bangli
+Bali,3. Kabupaten Buleleng
+Bali,4. Kabupaten Gianyar
+Bali,5. Kabupaten Jembrana
+Bali,6. Kabupaten Karangasem
+Bali,7. Kabupaten Klungkung
+Bali,8. Kabupaten Tabanan
+Bali,9. Kota Denpasar
+Nusa Tenggara Barat,1. Kabupaten Bima
+Nusa Tenggara Barat,2. Kabupaten Dompu
+Nusa Tenggara Barat,3. Kabupaten Lombok Barat
+Nusa Tenggara Barat,4. Kabupaten Lombok Tengah
+Nusa Tenggara Barat,5. Kabupaten Lombok Timur
+Nusa Tenggara Barat,6. Kabupaten Lombok Utara
+Nusa Tenggara Barat,7. Kabupaten Sumbawa
+Nusa Tenggara Barat,8. Kabupaten Sumbawa Barat
+Nusa Tenggara Barat,9. Kota Bima
+Nusa Tenggara Barat,10. Kota Mataram
+Nusa Tenggara Timur,1. Kabupaten Alor
+Nusa Tenggara Timur,2. Kabupaten Belu
+Nusa Tenggara Timur,3. Kabupaten Ende
+Nusa Tenggara Timur,4. Kabupaten Flores Timur
+Nusa Tenggara Timur,5. Kabupaten Kupang
+Nusa Tenggara Timur,6. Kabupaten Lembata
+Nusa Tenggara Timur,7. Kabupaten Malaka
+Nusa Tenggara Timur,8. Kabupaten Manggarai
+Nusa Tenggara Timur,9. Kabupaten Manggarai Barat
+Nusa Tenggara Timur,10. Kabupaten Manggarai Timur
+Nusa Tenggara Timur,11. Kabupaten Ngada
+Nusa Tenggara Timur,12. Kabupaten Nagekeo
+Nusa Tenggara Timur,13. Kabupaten Rote Ndao
+Nusa Tenggara Timur,14. Kabupaten Sabu Raijua
+Nusa Tenggara Timur,15. Kabupaten Sikka
+Nusa Tenggara Timur,16. Kabupaten Sumba Barat
+Nusa Tenggara Timur,17. Kabupaten Sumba Barat Daya
+Nusa Tenggara Timur,18. Kabupaten Sumba Tengah
+Nusa Tenggara Timur,19. Kabupaten Sumba Timur
+Nusa Tenggara Timur,20. Kabupaten Timor Tengah Selatan
+Nusa Tenggara Timur,21. Kabupaten Timor Tengah Utara
+Nusa Tenggara Timur,22. Kota Kupang
+Kalimantan Barat,1. Kabupaten Bengkayang
+Kalimantan Barat,2. Kabupaten Kapuas Hulu
+Kalimantan Barat,3. Kabupaten Kayong Utara
+Kalimantan Barat,4. Kabupaten Ketapang
+Kalimantan Barat,5. Kabupaten Kubu Raya
+Kalimantan Barat,6. Kabupaten Landak
+Kalimantan Barat,7. Kabupaten Melawi
+Kalimantan Barat,8. Kabupaten Mempawah
+Kalimantan Barat,9. Kabupaten Sambas
+Kalimantan Barat,10. Kabupaten Sanggau
+Kalimantan Barat,11. Kabupaten Sekadau
+Kalimantan Barat,12. Kabupaten Sintang
+Kalimantan Barat,13. Kota Pontianak
+Kalimantan Barat,14. Kota Singkawang
+Kalimantan Selatan,1. Kabupaten Balangan
+Kalimantan Selatan,2. Kabupaten Banjar
+Kalimantan Selatan,3. Kabupaten Barito Kuala
+Kalimantan Selatan,4. Kabupaten Hulu Sungai Selatan
+Kalimantan Selatan,5. Kabupaten Hulu Sungai Tengah
+Kalimantan Selatan,6. Kabupaten Hulu Sungai Utara
+Kalimantan Selatan,7. Kabupaten Kotabaru
+Kalimantan Selatan,8. Kabupaten Tabalong
+Kalimantan Selatan,9. Kabupaten Tanah Bumbu
+Kalimantan Selatan,10. Kabupaten Tanah Laut
+Kalimantan Selatan,11. Kabupaten Tapin
+Kalimantan Selatan,12. Kota Banjarbaru
+Kalimantan Selatan,13. Kota Banjarmasin
+Kalimantan Tengah,1. Kabupaten Barito Selatan
+Kalimantan Tengah,2. Kabupaten Barito Timur
+Kalimantan Tengah,3. Kabupaten Barito Utara
+Kalimantan Tengah,4. Kabupaten Gunung Mas
+Kalimantan Tengah,5. Kabupaten Kapuas
+Kalimantan Tengah,6. Kabupaten Katingan
+Kalimantan Tengah,7. Kabupaten Kotawaringin Barat
+Kalimantan Tengah,8. Kabupaten Kotawaringin Timur
+Kalimantan Tengah,9. Kabupaten Lamandau
+Kalimantan Tengah,10. Kabupaten Murung Raya
+Kalimantan Tengah,11. Kabupaten Pulang Pisau
+Kalimantan Tengah,12. Kabupaten Sukamara
+Kalimantan Tengah,13. Kabupaten Seruyan
+Kalimantan Tengah,14. Kota Palangka Raya
+Kalimantan Timur,1. Kabupaten Berau
+Kalimantan Timur,2. Kabupaten Kutai Barat
+Kalimantan Timur,3. Kabupaten Kutai Kartanegara
+Kalimantan Timur,4. Kabupaten Kutai Timur
+Kalimantan Timur,5. Kabupaten Mahakam Ulu
+Kalimantan Timur,6. Kabupaten Paser
+Kalimantan Timur,7. Kabupaten Penajam Paser Utara
+Kalimantan Timur,8. Kota Balikpapan
+Kalimantan Timur,9. Kota Bontang
+Kalimantan Timur,10. Kota Samarinda
+Kalimantan Utara,1. Kabupaten Bulungan
+Kalimantan Utara,2. Kabupaten Malinau
+Kalimantan Utara,3. Kabupaten Nunukan
+Kalimantan Utara,4. Kabupaten Tana Tidung
+Kalimantan Utara,5. Kota Tarakan
+Gorontalo,1. Kabupaten Boalemo
+Gorontalo,2. Kabupaten Bone Bolango
+Gorontalo,3. Kabupaten Gorontalo
+Gorontalo,4. Kabupaten Gorontalo Utara
+Gorontalo,5. Kabupaten Pohuwato
+Gorontalo,6. Kota Gorontalo
+Sulawesi Selatan,1. Kabupaten Bantaeng
+Sulawesi Selatan,2. Kabupaten Barru
+Sulawesi Selatan,3. Kabupaten Bone
+Sulawesi Selatan,4. Kabupaten Bulukumba
+Sulawesi Selatan,5. Kabupaten Enrekang
+Sulawesi Selatan,6. Kabupaten Gowa
+Sulawesi Selatan,7. Kabupaten Jeneponto
+Sulawesi Selatan,8. Kabupaten Kepulauan Selayar
+Sulawesi Selatan,9. Kabupaten Luwu
+Sulawesi Selatan,10. Kabupaten Luwu Timur
+Sulawesi Selatan,11. Kabupaten Luwu Utara
+Sulawesi Selatan,12. Kabupaten Maros
+Sulawesi Selatan,13. Kabupaten Pangkajene dan Kepulauan
+Sulawesi Selatan,14. Kabupaten Pinrang
+Sulawesi Selatan,15. Kabupaten Sidenreng Rappang
+Sulawesi Selatan,16. Kabupaten Sinjai
+Sulawesi Selatan,17. Kabupaten Soppeng
+Sulawesi Selatan,18. Kabupaten Takalar
+Sulawesi Selatan,19. Kabupaten Tana Toraja
+Sulawesi Selatan,20. Kabupaten Toraja Utara
+Sulawesi Selatan,21. Kabupaten Wajo
+Sulawesi Selatan,22. Kota Makassar
+Sulawesi Selatan,23. Kota Palopo
+Sulawesi Selatan,24. Kota Parepare
+Sulawesi Tenggara,1. Kabupaten Bombana
+Sulawesi Tenggara,2. Kabupaten Buton
+Sulawesi Tenggara,3. Kabupaten Buton Selatan
+Sulawesi Tenggara,4. Kabupaten Buton Tengah
+Sulawesi Tenggara,5. Kabupaten Buton Utara
+Sulawesi Tenggara,6. Kabupaten Kolaka
+Sulawesi Tenggara,7. Kabupaten Kolaka Timur
+Sulawesi Tenggara,8. Kabupaten Kolaka Utara
+Sulawesi Tenggara,9. Kabupaten Konawe
+Sulawesi Tenggara,10. Kabupaten Konawe Kepulauan
+Sulawesi Tenggara,11. Kabupaten Konawe Selatan
+Sulawesi Tenggara,12. Kabupaten Konawe Utara
+Sulawesi Tenggara,13. Kabupaten Muna
+Sulawesi Tenggara,14. Kabupaten Muna Barat
+Sulawesi Tenggara,15. Kabupaten Wakatobi
+Sulawesi Tenggara,16. Kota Bau-Bau
+Sulawesi Tenggara,17. Kota Kendari
+Sulawesi Tengah,1. Kabupaten Banggai
+Sulawesi Tengah,2. Kabupaten Banggai Kepulauan
+Sulawesi Tengah,3. Kabupaten Banggai Laut
+Sulawesi Tengah,4. Kabupaten Buol
+Sulawesi Tengah,5. Kabupaten Donggala
+Sulawesi Tengah,6. Kabupaten Morowali
+Sulawesi Tengah,7. Kabupaten Morowali Utara
+Sulawesi Tengah,8. Kabupaten Parigi Moutong
+Sulawesi Tengah,9. Kabupaten Poso
+Sulawesi Tengah,10. Kabupaten Sigi
+Sulawesi Tengah,11. Kabupaten Tojo Una-Una
+Sulawesi Tengah,12. Kabupaten Toli-Toli
+Sulawesi Tengah,13. Kota Palu
+Sulawesi Utara,1. Kabupaten Bolaang Mongondow
+Sulawesi Utara,2. Kabupaten Bolaang Mongondow Selatan
+Sulawesi Utara,3. Kabupaten Bolaang Mongondow Timur
+Sulawesi Utara,4. Kabupaten Bolaang Mongondow Utara
+Sulawesi Utara,5. Kabupaten Kepulauan Sangihe
+Sulawesi Utara,6. Kabupaten Kepulauan Siau Tagulandang Biaro
+Sulawesi Utara,7. Kabupaten Kepulauan Talaud
+Sulawesi Utara,8. Kabupaten Minahasa
+Sulawesi Utara,9. Kabupaten Minahasa Selatan
+Sulawesi Utara,10. Kabupaten Minahasa Tenggara
+Sulawesi Utara,11. Kabupaten Minahasa Utara
+Sulawesi Utara,12. Kota Bitung
+Sulawesi Utara,13. Kota Kotamobagu
+Sulawesi Utara,14. Kota Manado
+Sulawesi Utara,15. Kota Tomohon
+Sulawesi Barat,1. Kabupaten Majene
+Sulawesi Barat,2. Kabupaten Mamasa
+Sulawesi Barat,3. Kabupaten Mamuju
+Sulawesi Barat,4. Kabupaten Mamuju Tengah
+Sulawesi Barat,5. Kabupaten Mamuju Utara
+Sulawesi Barat,6. Kabupaten Polewali Mandar
+Sulawesi Barat,7. Kota Mamuju
+Maluku,1. Kabupaten Buru
+Maluku,2. Kabupaten Buru Selatan
+Maluku,3. Kabupaten Kepulauan Aru
+Maluku,4. Kabupaten Maluku Barat Daya
+Maluku,5. Kabupaten Maluku Tengah
+Maluku,6. Kabupaten Maluku Tenggara
+Maluku,7. Kabupaten Maluku Tenggara Barat
+Maluku,8. Kabupaten Seram Bagian Barat
+Maluku,9. Kabupaten Seram Bagian Timur
+Maluku,10. Kota Ambon
+Maluku,11. Kota Tual
+Maluku Utara,1. Kabupaten Halmahera Barat
+Maluku Utara,2. Kabupaten Halmahera Tengah
+Maluku Utara,3. Kabupaten Halmahera Utara
+Maluku Utara,4. Kabupaten Halmahera Selatan
+Maluku Utara,5. Kabupaten Kepulauan Sula
+Maluku Utara,6. Kabupaten Halmahera Timur
+Maluku Utara,7. Kabupaten Pulau Morotai
+Maluku Utara,8. Kabupaten Pulau Taliabu
+Maluku Utara,9. Kota Ternate
+Maluku Utara,10. Kota Tidore Kepulauan
+Papua,1. Kabupaten Asmat
+Papua,2. Kabupaten Biak Numfor
+Papua,3. Kabupaten Boven Digoel
+Papua,4. Kabupaten Deiyai
+Papua,5. Kabupaten Dogiyai
+Papua,6. Kabupaten Intan Jaya
+Papua,7. Kabupaten Jayapura
+Papua,8. Kabupaten Jayawijaya
+Papua,9. Kabupaten Keerom
+Papua,10. Kabupaten Kepulauan Yapen
+Papua,11. Kabupaten Lanny Jaya
+Papua,12. Kabupaten Mamberamo Raya
+Papua,13. Kabupaten Mamberamo Tengah
+Papua,14. Kabupaten Mappi
+Papua,15. Kabupaten Merauke
+Papua,16. Kabupaten Mimika
+Papua,17. Kabupaten Nabire
+Papua,18. Kabupaten Nduga
+Papua,19. Kabupaten Paniai
+Papua,20. Kabupaten Pegunungan Bintang
+Papua,21. Kabupaten Puncak
+Papua,22. Kabupaten Puncak Jaya
+Papua,23. Kabupaten Sarmi
+Papua,24. Kabupaten Supiori
+Papua,25. Kabupaten Tolikara
+Papua,26. Kabupaten Waropen
+Papua,27. Kabupaten Yahukimo
+Papua,28. Kabupaten Yalimo
+Papua,29. Kota Jayapura
+Papua Barat,1. Kabupaten Fakfak
+Papua Barat,2. Kabupaten Kaimana
+Papua Barat,3. Kabupaten Manokwari
+Papua Barat,4. Kabupaten Manokwari Selatan
+Papua Barat,5. Kabupaten Maybrat
+Papua Barat,6. Kabupaten Pegunungan Arfak
+Papua Barat,7. Kabupaten Raja Ampat
+Papua Barat,8. Kabupaten Sorong
+Papua Barat,9. Kabupaten Sorong Selatan
+Papua Barat,10. Kabupaten Tambrauw
+Papua Barat,11. Kabupaten Teluk Bintuni
+Papua Barat,12. Kabupaten Teluk Wondama
