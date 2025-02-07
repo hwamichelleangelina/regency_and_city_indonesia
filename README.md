@@ -1,5 +1,6 @@
 # Indonesia Cities and Provinces CSV
 This repository contains **a CSV dataset** listing all regencies and cities in Indonesia, along with **their respective provinces**. The dataset is intended for mapping purposes, helping to identify which province a city or regency belongs to, and can be used in other projects that require administrative region data.
+## Use `kab_kota_provinsi_indonesia.csv`
 
 ## Features:
 - Comprehensive data: Covers all regencies and cities in Indonesia.
